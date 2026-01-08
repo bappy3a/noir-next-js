@@ -1,6 +1,6 @@
 export const metadata = {
-  title: "Collections | NOIR",
-  description: "Discover our curated selection of collections",
+    title: "Collections | NOIR",
+    description: "Discover our curated selection of collections",
 };
 export default function CollectionsPage() {
     return (
