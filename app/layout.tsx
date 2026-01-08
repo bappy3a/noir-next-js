@@ -30,7 +30,6 @@ export default function RootLayout({
                     shadow="0 0 10px #ff3366,0 0 5px #ff3366"
                     template='<div class="bar" role="bar"><div class="peg"></div></div> <div class="spinner" role="spinner"><div class="spinner-icon"></div></div>'
                     zIndex={1600}
-                    showAtBottom={false}
                 />
                 <Navbar />
                 {children}
